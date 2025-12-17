@@ -1,0 +1,14 @@
+{
+  "crops": [
+    {
+      "name": "Tomato",
+      "planting_window": "Mar-May",
+      "harvest_window": "Jul-Sep"
+    },
+    {
+      "name": "Lettuce",
+      "planting_window": "Feb-Mar",
+      "harvest_window": "May-Jun"
+    }
+  ]
+}
